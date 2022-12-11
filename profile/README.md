@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🙋‍♀️ vue2 日常业务组件封装
+🌈 vue2+vite 实现
+👩‍ github CI/CD
+
+
 <!--
 
 **Here are some ideas to get you started:**
